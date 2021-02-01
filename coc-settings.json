@@ -1,0 +1,5 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["typescript", "typescriptreact", "javascript", "html", "css", "scss", "markdown", "xml", "svg"],
+  "typescript.suggest.autoImports": true,
+  "typescript.preferences.quoteStyle": "single"
+}
